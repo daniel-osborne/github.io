@@ -13,7 +13,6 @@ I recently graduated from college with a bachelors in Network Administration. I 
 <div class="row">
 {% include about/skills.html title="Skills" source=site.data.skills %}
 {% include about/skills.html title='<br>' source=site.data.skills2 %}
-{% include about/certifications.html title="Certifications" source=site.data.certifications %}
 </div>
 
 <div class="row">
