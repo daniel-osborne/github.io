@@ -27,7 +27,6 @@
 - title: Student, Alfred State College Network Administration BTECH
   from: 2020
   to: 2023
-  gpa: " | GPA: 3.24"
   description: After graduating from SUNY Adirondack, I transfered to Alfred State College to further my education and 
                to obtain my bachelors degree. The coursework here exposed us to host security, zone based firewalling with Palo Alto and Cisco ASAs,
                virtualization with ESXI and ProxMox, programming with C# and Javascript, risk management, project management, and ethics.
@@ -35,7 +34,6 @@
 - title: 'Student, SUNY Adirondack IT: Computer Networking AAS'
   from: 2017
   to: 2020 
-  gpa: " | GPA: 3.23"
   description: I Attended SUNY Adirondack while attending high school through the BOCES Early College Career Academy.
                While attending SUNY Adirondack, the coursework we were exposed to taught us the fundamentals of routing
                and switching, computer operating systems and hardware, and about information security. 

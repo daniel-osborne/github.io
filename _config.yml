@@ -1,5 +1,5 @@
 ### Site Settings ###
-title               : Daniel Osborne
+title               : dosborne.me
 description         : >-
                       I can build a network but don't ask
                       me to make a patch cable, i'm colorblind :smile:.
@@ -8,26 +8,20 @@ repository          : daniel-osborne/daniel-osborne.github.io     # Change to <y
 remote_theme        : YoussefRaafatNasry/portfolYOU
 open_new_tab        : true                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
-
 ### Plugins ###
 plugins:
   - jemoji
-  - jekyll-sitemap
-  - jekyll-seo-tag
-
 
 ### Navbar Settings ###
 nav_exclude:                                            # The following paths are excluded from navbar
   - pages/tags.html
   - pages/404.html
   - pages/index.md
-  - documentation/partials/**                           # For Documentation Only
-
 
 ### Author Info ###
 author:
   name              : Daniel Osborne
-  image             : \assets\img\daniel-osborne\osbornedaniel-bkg.png
+  image             : https://i.imgur.com/uyDNQnn.jpg
 # behance           : your_username
 # dribbble          : your_username
   email             : info@dosborne.me
@@ -58,20 +52,18 @@ collections:
   projects:
     output: true
     permalink: /projects/:name
-  elements:                                             # For Documentation Only
-    output: true                                        # For Documentation Only
 
 
-# ### Disqus ###
-#  disqus:
-#   shortname: your-short-name-disqus                     # Your website Shortname on disqus
+### Disqus ###
+# disqus:
+#  shortname: your-short-name-disqus                     # Your website Shortname on disqus
 
 
 ### Analytics ###
-# analytics:
-#   enabled: false                                        # Set true to enable analytics
-#   google:
-#     tracking_id: your-google-tracking-id
+analytics:
+  enabled: false                                        # Set true to enable analytics
+  google:
+    tracking_id: your-google-tracking-id
 
 
 ### Buy me a coffee ###
@@ -91,11 +83,6 @@ defaults:
       type: "projects"
     values:
       layout: "page"
-  - scope:                                              # For Documentation Only
-      path: ""                                          # For Documentation Only
-      type: "elements"                                  # For Documentation Only
-    values:                                             # For Documentation Only
-      layout: "element"                                 # For Documentation Only
   - scope:
       path: ""
       type: "posts"
