@@ -21,7 +21,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Daniel Osborne
-  image             : https://upload.wikimedia.org/wikipedia/commons/3/3b/Chromium_T-Rex-error-offline.svg
+  image             : https://raw.githubusercontent.com/daniel-osborne/daniel-osborne.github.io/de97349fafac392e63e233cb99589bb744f7916b/assets/img/daniel-osborne/dinosaur.svg
 # behance           : your_username
 # dribbble          : your_username
   email             : info@dosborne.me
