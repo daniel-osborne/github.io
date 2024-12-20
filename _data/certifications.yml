@@ -1,11 +1,14 @@
 - name: TestOut Linux Pro
   date: 2022
+  color: success
 
 - name: Cisco CCNA
   date: 2019
+  color: danger
   
 
 - name: CompTIA A+
   date: 2018
+  color: danger
   
   
