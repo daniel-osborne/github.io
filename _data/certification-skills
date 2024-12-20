@@ -1,0 +1,7 @@
+- name: Cisco CCNA
+  percentage: 95
+  color: info
+
+- name: CompTIA A+
+  percentage: 90
+  color: success
