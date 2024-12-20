@@ -1,0 +1,11 @@
+- name: Routing and Switching
+  percentage: 100
+  color: primary
+
+- name: Network Firewalling
+  percentage: 90
+  color: secondary
+
+- name: Jinja
+  percentage: 95
+  color: info
