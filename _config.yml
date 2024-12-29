@@ -9,8 +9,11 @@ remote_theme        : YoussefRaafatNasry/portfolYOU
 open_new_tab        : true                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 ### Plugins ###
+url: "https://dosborne.me"
 plugins:
   - jemoji
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 ### Navbar Settings ###
 nav_exclude:                                            # The following paths are excluded from navbar
