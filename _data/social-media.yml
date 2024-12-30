@@ -86,10 +86,10 @@ linkedin:
 #   icon  : fab fa-vimeo-v
 #   color : 162221
 
-# youtube:
-#   url   : https://www.youtube.com/
-#   icon  : fab fa-youtube
-#   color : ff0000
+youtube:
+  url   : https://www.youtube.com/
+  icon  : fab fa-youtube
+  color : ff0000
 
 # keybase:
 #   url   : https://www.keybase.io/
