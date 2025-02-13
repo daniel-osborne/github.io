@@ -12,7 +12,6 @@ I am an IT professional fresh out of school. I enjoy messing around in my home l
 
 <div class="row">
 {% include about/skills.html title="Skills" source=site.data.networking-skills %}
-{% include about/skills.html title="     " source=site.data.virtualization-skills %}
 {% include about/skills.html title="Certifications" certifications=site.data.certifications %}
 </div>
 
