@@ -9,3 +9,15 @@
 - name: Jinja
   percentage: 95
   color: info
+
+- name: Proxmox
+  percentage: 95
+  color: info
+
+- name: VMWare ESXI
+  percentage: 90
+  color: primary
+
+- name: Docker Compose
+  percentage: 100
+  color: secondary
